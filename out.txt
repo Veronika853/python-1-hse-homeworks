@@ -1,66 +1,74 @@
-+ [Say greetings](#say-greetings)
-+ [Say greetings](#say-greetings)
-+ [Say greetings](#say-greetings)
-+ [Say greetings](#say-greetings)
-+ [Say greetings](#say-greetings)
-+ [Say greetings](#say-greetings)
-<!---source markdown delimeter--->
+BANK: 1000.0
+START_PRICE: 20.11
+STOP_PRICE: 19.0; 1000.0 - 19.0 * 49.727 = 55.196 FTT
+PAIR: APE-FTT
 
-## Say greetings
+1 target: 21.5 FTT
+Percent: 6.912%
+Bank: 1069.12 FTT
+Target size: 12.432 * 21.5 = 267.28 FTT
 
-Say greetings desc
+2 target: 22.8 FTT
+Percent: 13.376%
+Bank: 1133.764 FTT
+Target size: 12.432 * 22.8 = 283.441 FTT
 
-```python
-def sayGreetings():
-    print("Hello greetings!")
-```
+3 target: 23.5 FTT
+Percent: 16.857%
+Bank: 1168.573 FTT
+Target size: 12.432 * 23.5 = 292.143 FTT
 
+4 target: 24.5 FTT
+Percent: 21.83%
+Bank: 1218.299 FTT
+Target size: 12.432 * 24.5 = 304.575 FTT
 
-## Say greetings
+Strategy income: 1147.439 - 1000.0 = 147.439 FTT; percent: 14.744%
 
-Say greetings desc
+----------------------------------------------
+BANK: 50.0
+START_PRICE: 3.01
+STOP_PRICE: 2.8; 50.0 - 2.8 * 16.611 = 3.488 QWE
+PAIR: CTY-QWE
 
-```python
-def sayGreetings():
-    print("Hello greetings!")
-```
+1 target: 3.105 QWE
+Percent: 3.156%
+Bank: 51.578 QWE
+Target size: 5.537 * 3.105 = 17.193 QWE
 
+2 target: 3.27 QWE
+Percent: 8.638%
+Bank: 54.319 QWE
+Target size: 5.537 * 3.27 = 18.106 QWE
 
-## Say greetings
+3 target: 3.4 QWE
+Percent: 12.957%
+Bank: 56.478 QWE
+Target size: 5.537 * 3.4 = 18.826 QWE
 
-Say greetings desc
+Strategy income: 54.125 - 50.0 = 4.125 QWE; percent: 8.25%
 
-```python
-def sayGreetings():
-    print("Hello greetings!")
-```
+----------------------------------------------
+BANK: 700.0
+START_PRICE: 5.9
+STOP_PRICE: 5.4; 700.0 - 5.4 * 118.644 = 59.322 YUI
+PAIR: ERT-YUI
 
+1 target: 6.0 YUI
+Percent: 1.695%
+Bank: 711.864 YUI
+Target size: 39.548 * 6.0 = 237.288 YUI
 
-## Say greetings
+2 target: 6.9 YUI
+Percent: 16.949%
+Bank: 818.644 YUI
+Target size: 39.548 * 6.9 = 272.881 YUI
 
-Say greetings desc
+3 target: 7.5 YUI
+Percent: 27.119%
+Bank: 889.831 YUI
+Target size: 39.548 * 7.5 = 296.61 YUI
 
-```python
-def sayGreetings():
-    print("Hello greetings!")
-```
+Strategy income: 806.78 - 700.0 = 106.78 YUI; percent: 15.254%
 
-
-## Say greetings
-
-Say greetings desc
-
-```python
-def sayGreetings():
-    print("Hello greetings!")
-```
-
-
-## Say greetings
-
-Say greetings desc
-
-```python
-def sayGreetings():
-    print("Hello greetings!")
-```
+----------------------------------------------
