@@ -1,0 +1,66 @@
++ [Say greetings](#say-greetings)
++ [Say greetings](#say-greetings)
++ [Say greetings](#say-greetings)
++ [Say greetings](#say-greetings)
++ [Say greetings](#say-greetings)
++ [Say greetings](#say-greetings)
+<!---source markdown delimeter--->
+
+## Say greetings
+
+Say greetings desc
+
+```python
+def sayGreetings():
+    print("Hello greetings!")
+```
+
+
+## Say greetings
+
+Say greetings desc
+
+```python
+def sayGreetings():
+    print("Hello greetings!")
+```
+
+
+## Say greetings
+
+Say greetings desc
+
+```python
+def sayGreetings():
+    print("Hello greetings!")
+```
+
+
+## Say greetings
+
+Say greetings desc
+
+```python
+def sayGreetings():
+    print("Hello greetings!")
+```
+
+
+## Say greetings
+
+Say greetings desc
+
+```python
+def sayGreetings():
+    print("Hello greetings!")
+```
+
+
+## Say greetings
+
+Say greetings desc
+
+```python
+def sayGreetings():
+    print("Hello greetings!")
+```
